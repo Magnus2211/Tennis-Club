@@ -47,5 +47,5 @@ password=1234
 ```
 npm start
 ```
-Επίσης,μπορείτε να δείτε και την εφαρμογή στο https://datennisclub.fly.dev/
+
 
